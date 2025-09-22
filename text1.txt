@@ -1,1 +1,0 @@
-Changes made as part of Stashing Examples
